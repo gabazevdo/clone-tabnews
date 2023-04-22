@@ -4,7 +4,9 @@ function Home() {
       <h1>
         Vocé é tão especial
         <br />
-        que deveria ser inserida ao dicionário Aurélio
+        que seu nome deveria ser inserido
+        <br />
+        ao dicionário Aurélio
       </h1>
       <br />
       <h3>Lais</h3>
