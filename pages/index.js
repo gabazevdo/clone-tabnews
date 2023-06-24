@@ -17,7 +17,7 @@ function Home() {
         </q>
       </p>
     </>
-  )
+  );
 }
 
-export default Home
+export default Home;
